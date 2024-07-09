@@ -1,0 +1,329 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vbuffer
+Z0 !s110 1720552838
+!i10b 1
+!s100 zTdnf8QKEb>HjBg<[FS?01
+I?Bj>TOH0VKhf^ne4PR:Qe3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/ROG STRIX/Desktop/FPGA
+w1719403621
+8C:/Users/ROG STRIX/Desktop/New folder/buffer.v
+FC:/Users/ROG STRIX/Desktop/New folder/buffer.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1720552838.000000
+!s107 C:/Users/ROG STRIX/Desktop/New folder/buffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ROG STRIX/Desktop/New folder/buffer.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vCB
+R0
+!i10b 1
+!s100 a5eS?eN]PC8hbm?@3m1iV1
+Id;[8f?;MaWlHJYEkF:HMN0
+R1
+R2
+w1719403623
+8C:/Users/ROG STRIX/Desktop/New folder/CB.v
+FC:/Users/ROG STRIX/Desktop/New folder/CB.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 C:\Users\ROG STRIX\Desktop\New folder\mux41.v|C:\Users\ROG STRIX\Desktop\New folder\inverter.v|C:\Users\ROG STRIX\Desktop\New folder\gate_or2.v|C:\Users\ROG STRIX\Desktop\New folder\gate_and.v|C:\Users\ROG STRIX\Desktop\New folder\mux21.v|C:/Users/ROG STRIX/Desktop/New folder/CB.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ROG STRIX/Desktop/New folder/CB.v|
+!i113 1
+R5
+R6
+n@c@b
+vCLB
+R0
+!i10b 1
+!s100 i<7zO3FcGejDMDn[6Hd4T0
+I=O=T>PRgY940fKLaD>:K_1
+R1
+R2
+w1719403615
+8C:/Users/ROG STRIX/Desktop/New folder/CLB.v
+FC:/Users/ROG STRIX/Desktop/New folder/CLB.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\ROG STRIX\Desktop\New folder\DFF.v|C:\Users\ROG STRIX\Desktop\New folder\mux21.v|C:\Users\ROG STRIX\Desktop\New folder\inverter.v|C:\Users\ROG STRIX\Desktop\New folder\gate_or2.v|C:\Users\ROG STRIX\Desktop\New folder\gate_and.v|C:\Users\ROG STRIX\Desktop\New folder\mux41.v|C:/Users/ROG STRIX/Desktop/New folder/CLB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ROG STRIX/Desktop/New folder/CLB.v|
+!i113 1
+R5
+R6
+n@c@l@b
+vd_flipflop_structural
+!s110 1719392548
+!i10b 1
+!s100 WRWjiG;7PD7ImgPbX]LQ23
+IROW:P8_4IbP3Ih92zHEZU3
+R1
+dC:/Users/ROG STRIX/Desktop/New folder
+w1719392539
+8C:\Users\ROG STRIX\Desktop\New folder\DFF.v
+FC:\Users\ROG STRIX\Desktop\New folder\DFF.v
+L0 12
+R3
+r1
+!s85 0
+31
+!s108 1719392548.000000
+!s107 gate_nand.v|inverter.v|gate_or2.v|gate_and.v|C:\Users\ROG STRIX\Desktop\New folder\DFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\ROG STRIX\Desktop\New folder\DFF.v|
+!i113 1
+R5
+R6
+vDFF
+R0
+!i10b 1
+!s100 LcVa[bRKJ>>5[G0UmGaHD3
+I7Q?R?:LY:aPc@E9=Y:@^I3
+R1
+R2
+w1720548554
+8C:\Users\ROG STRIX\Desktop\FPGA\src\DFF.v
+FC:\Users\ROG STRIX\Desktop\FPGA\src\DFF.v
+L0 27
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 C:\Users\ROG STRIX\Desktop\FPGA\src\DFF.v|C:/Users/ROG STRIX/Desktop/FPGA/src/shiftregister.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ROG STRIX/Desktop/FPGA/src/shiftregister.v|
+!i113 1
+R5
+R6
+n@d@f@f
+vgate_and2
+R0
+!i10b 1
+!s100 i03[M<G]eW0T6a];VN9[Z0
+Ii:Ta]?_VY2N:Y3k=WReIH1
+R1
+R2
+w1719403638
+8C:\Users\ROG STRIX\Desktop\New folder\gate_and.v
+FC:\Users\ROG STRIX\Desktop\New folder\gate_and.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R7
+R8
+!i113 1
+R5
+R6
+vgate_nand2
+R0
+!i10b 1
+!s100 WJ86M<DV^NEZO>:LLM5>n3
+I5<USM4N?Q?^KN=YS81kUe2
+R1
+R2
+w1719403714
+8C:/Users/ROG STRIX/Desktop/New folder/gate_nand.v
+FC:/Users/ROG STRIX/Desktop/New folder/gate_nand.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ROG STRIX/Desktop/New folder/gate_nand.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ROG STRIX/Desktop/New folder/gate_nand.v|
+!i113 1
+R5
+R6
+vgate_nand3
+R0
+!i10b 1
+!s100 N7iV;5N0]h_i[I=H7HiEf1
+I4i44k1^bN8bdMmFiBA17Q2
+R1
+R2
+w1719403620
+8C:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v
+FC:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v|
+!i113 1
+R5
+R6
+vgate_or2
+R0
+!i10b 1
+!s100 NG1<MZJ3?NMM1>WQVPiMi2
+IO7L`C>Q6U9MU4NioF:cMM3
+R1
+R2
+w1719403635
+8C:\Users\ROG STRIX\Desktop\New folder\gate_or2.v
+FC:\Users\ROG STRIX\Desktop\New folder\gate_or2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R7
+R8
+!i113 1
+R5
+R6
+vinverter
+R0
+!i10b 1
+!s100 XR;YaUCE>zN_bZ6UKmM1J1
+IC`555:GPT8D;[4[QAeLZo1
+R1
+R2
+w1719403626
+8C:\Users\ROG STRIX\Desktop\New folder\inverter.v
+FC:\Users\ROG STRIX\Desktop\New folder\inverter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R7
+R8
+!i113 1
+R5
+R6
+vmux21
+R0
+!i10b 1
+!s100 _7;iEL4:QL`<Ak83g[:_=2
+IOAVczmkG[Uz?UQ36`8WYT1
+R1
+R2
+w1719403628
+8C:\Users\ROG STRIX\Desktop\New folder\mux21.v
+FC:\Users\ROG STRIX\Desktop\New folder\mux21.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R7
+R8
+!i113 1
+R5
+R6
+vmux31
+R0
+!i10b 1
+!s100 >Kg[RmM19aJL@jg_GL7A]3
+I9zgQ^C9KJ7XacB>XK0hEe0
+R1
+R2
+w1719403613
+8C:/Users/ROG STRIX/Desktop/New folder/mux31.v
+FC:/Users/ROG STRIX/Desktop/New folder/mux31.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\ROG STRIX\Desktop\New folder\inverter.v|C:\Users\ROG STRIX\Desktop\New folder\gate_or2.v|C:\Users\ROG STRIX\Desktop\New folder\gate_and.v|C:/Users/ROG STRIX/Desktop/New folder/mux31.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ROG STRIX/Desktop/New folder/mux31.v|
+!i113 1
+R5
+R6
+vmux41
+R0
+!i10b 1
+!s100 Bc]55b`RiCZ8N6_1JQ`3A0
+IO;eHXM2RdjIiCUYAfgV9W1
+R1
+R2
+w1719403629
+8C:\Users\ROG STRIX\Desktop\New folder\mux41.v
+FC:\Users\ROG STRIX\Desktop\New folder\mux41.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R7
+R8
+!i113 1
+R5
+R6
+vSB
+R0
+!i10b 1
+!s100 N6T<4AKm4aDU1]Q7jdHg[2
+I=GJ<LUS<aYNj_h7gamEhN1
+R1
+R2
+w1719403617
+8C:/Users/ROG STRIX/Desktop/New folder/SB.v
+FC:/Users/ROG STRIX/Desktop/New folder/SB.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\ROG STRIX\Desktop\New folder\inverter.v|C:\Users\ROG STRIX\Desktop\New folder\gate_or2.v|C:\Users\ROG STRIX\Desktop\New folder\gate_and.v|C:\Users\ROG STRIX\Desktop\New folder\mux31.v|C:/Users/ROG STRIX/Desktop/New folder/SB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/ROG STRIX/Desktop/New folder/SB.v|
+!i113 1
+R5
+R6
+n@s@b
+vshift_register
+R0
+!i10b 1
+!s100 egMMI_TE>1`kEB2aEgT_S1
+I`OmQWmm;OCEf1?[mF]mM@3
+R1
+R2
+w1720552833
+8C:/Users/ROG STRIX/Desktop/FPGA/src/shiftregister.v
+FC:/Users/ROG STRIX/Desktop/FPGA/src/shiftregister.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6

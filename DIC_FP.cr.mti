@@ -1,0 +1,140 @@
+{C:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_nand3
+
+Top level modules:
+	gate_nand3
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/CB.v} {2 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/CB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_and2
+-- Compiling module gate_or2
+-- Compiling module inverter
+-- Compiling module mux21
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/New folder/CB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\New folder\mux41.v(1)
+** at C:\Users\ROG STRIX\Desktop\New folder\gate_and.v(1): (vlog-2275) 'gate_and2' already exists and will be overwritten.
+-- Compiling module gate_and2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/New folder/CB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\New folder\mux41.v(2)
+** at C:\Users\ROG STRIX\Desktop\New folder\gate_or2.v(1): (vlog-2275) 'gate_or2' already exists and will be overwritten.
+-- Compiling module gate_or2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/New folder/CB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\New folder\mux41.v(3)
+** at C:\Users\ROG STRIX\Desktop\New folder\inverter.v(1): (vlog-2275) 'inverter' already exists and will be overwritten.
+-- Compiling module inverter
+-- Compiling module mux41
+-- Compiling module CB
+
+Top level modules:
+	CB
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/SB.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/SB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_and2
+-- Compiling module gate_or2
+-- Compiling module inverter
+-- Compiling module mux31
+-- Compiling module SB
+
+Top level modules:
+	SB
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/mux31.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/mux31.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_and2
+-- Compiling module gate_or2
+-- Compiling module inverter
+-- Compiling module mux31
+
+Top level modules:
+	mux31
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/inverter.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/inverter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module inverter
+
+Top level modules:
+	inverter
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/DFF.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/DFF.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DFF
+
+Top level modules:
+	DFF
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/CLB.v} {2 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/CLB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_and2
+-- Compiling module gate_or2
+-- Compiling module inverter
+-- Compiling module mux41
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/New folder/CLB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\New folder\mux21.v(1)
+** at C:\Users\ROG STRIX\Desktop\New folder\gate_and.v(1): (vlog-2275) 'gate_and2' already exists and will be overwritten.
+-- Compiling module gate_and2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/New folder/CLB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\New folder\mux21.v(2)
+** at C:\Users\ROG STRIX\Desktop\New folder\gate_or2.v(1): (vlog-2275) 'gate_or2' already exists and will be overwritten.
+-- Compiling module gate_or2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/New folder/CLB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\New folder\mux21.v(3)
+** at C:\Users\ROG STRIX\Desktop\New folder\inverter.v(1): (vlog-2275) 'inverter' already exists and will be overwritten.
+-- Compiling module inverter
+-- Compiling module mux21
+-- Compiling module DFF
+-- Compiling module CLB
+
+Top level modules:
+	CLB
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/gate_nand.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/gate_nand.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_nand2
+
+Top level modules:
+	gate_nand2
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/buffer.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/buffer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module buffer
+
+Top level modules:
+	buffer
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/gate_and.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/gate_and.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_and2
+
+Top level modules:
+	gate_and2
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/gate_or2.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/gate_or2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_or2
+
+Top level modules:
+	gate_or2
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/mux21.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/mux21.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_and2
+-- Compiling module gate_or2
+-- Compiling module inverter
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/mux41.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/mux41.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_and2
+-- Compiling module gate_or2
+-- Compiling module inverter
+-- Compiling module mux41
+
+Top level modules:
+	mux41
+
+} {} {}}
