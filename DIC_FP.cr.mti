@@ -1,4 +1,89 @@
-{C:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v}
+{C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v} {2 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gate_and2
+-- Compiling module gate_or2
+-- Compiling module inverter
+-- Compiling module mux21
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(1)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux41.v(1)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\gate_and.v(1): (vlog-2275) 'gate_and2' already exists and will be overwritten.
+-- Compiling module gate_and2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(1)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux41.v(2)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\gate_or2.v(1): (vlog-2275) 'gate_or2' already exists and will be overwritten.
+-- Compiling module gate_or2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(1)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux41.v(3)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\inverter.v(1): (vlog-2275) 'inverter' already exists and will be overwritten.
+-- Compiling module inverter
+-- Compiling module mux41
+-- Compiling module CB
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CLB.v(1)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux41.v(1)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\gate_and.v(1): (vlog-2275) 'gate_and2' already exists and will be overwritten.
+-- Compiling module gate_and2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CLB.v(1)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux41.v(2)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\gate_or2.v(1): (vlog-2275) 'gate_or2' already exists and will be overwritten.
+-- Compiling module gate_or2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CLB.v(1)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux41.v(3)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\inverter.v(1): (vlog-2275) 'inverter' already exists and will be overwritten.
+-- Compiling module inverter
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CLB.v(1)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\mux41.v(4): (vlog-2275) 'mux41' already exists and will be overwritten.
+-- Compiling module mux41
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CLB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux21.v(1)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\gate_and.v(1): (vlog-2275) 'gate_and2' already exists and will be overwritten.
+-- Compiling module gate_and2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CLB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux21.v(2)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\gate_or2.v(1): (vlog-2275) 'gate_or2' already exists and will be overwritten.
+-- Compiling module gate_or2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CLB.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux21.v(3)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\inverter.v(1): (vlog-2275) 'inverter' already exists and will be overwritten.
+-- Compiling module inverter
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(2)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\CLB.v(2)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\mux21.v(4): (vlog-2275) 'mux21' already exists and will be overwritten.
+-- Compiling module mux21
+-- Compiling module DFF
+-- Compiling module CLB
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(3)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\SB.v(1)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux31.v(1)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\gate_and.v(1): (vlog-2275) 'gate_and2' already exists and will be overwritten.
+-- Compiling module gate_and2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(3)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\SB.v(1)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux31.v(2)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\gate_or2.v(1): (vlog-2275) 'gate_or2' already exists and will be overwritten.
+-- Compiling module gate_or2
+** Warning: ** while parsing file included at C:/Users/ROG STRIX/Desktop/FPGA/src/cell1.v(3)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\SB.v(1)
+** while parsing file included at C:\Users\ROG STRIX\Desktop\FPGA\src\mux31.v(3)
+** at C:\Users\ROG STRIX\Desktop\FPGA\src\inverter.v(1): (vlog-2275) 'inverter' already exists and will be overwritten.
+-- Compiling module inverter
+-- Compiling module mux31
+-- Compiling module SB
+-- Compiling module cell1
+
+Top level modules:
+	cell1
+
+} {} {}} {C:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v} {1 {vlog -work work -stats=none {C:/Users/ROG STRIX/Desktop/New folder/gate_nand3.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module gate_nand3
 

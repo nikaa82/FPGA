@@ -1,5 +1,6 @@
 `include "mux21.v"
 `include "mux41.v"
+
 module CB(
     input [4:0] in,
     input [9:0] sel,
